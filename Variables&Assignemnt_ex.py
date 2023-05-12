@@ -19,4 +19,6 @@ print(var)
 print("ahoj")
 print(5+5)
 
+ex_3=1.2376+2.8087
+print(round(ex_3,3))
 
